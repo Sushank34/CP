@@ -1,6 +1,6 @@
 
 /**
- * <a href="https://leetcode.com/problems/add-two-numbers/">Problem link</a>
+ * <a href="https://leetcode.com/problems/add-two-numbers">Problem link</a>
  * **/
 
 public class Add_Two_Numbers {
